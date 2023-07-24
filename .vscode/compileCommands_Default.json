@@ -1,0 +1,74 @@
+[
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/BasePawn.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.239.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/BasePawn.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.239.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Tank.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.239.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Tank.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.239.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanks.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.239.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanks.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.239.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanks.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.239.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Turret.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.239.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Turret.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.239.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	}
+]

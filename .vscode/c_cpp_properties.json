@@ -13,6 +13,7 @@
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "clang-x64",
+            "configurationProvider": "epic.ue",
             "compileCommands": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks.json"
         },
         {
@@ -28,6 +29,7 @@
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "clang-x64",
+            "configurationProvider": "epic.ue",
             "compileCommands": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default.json"
         }
     ],

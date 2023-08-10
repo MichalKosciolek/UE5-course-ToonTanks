@@ -40,6 +40,16 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 	auto MyOwner = GetOwner();
 	if (MyOwner && OtherActor && OtherActor != this && OtherActor != MyOwner)
 	{
+		if (HitParticles)
+		{
+			UGameplayStatics::SpawnEmitterAtLocation(
+				this,
+				HitParticles,
+				GetActorLocation(), 
+				GetActorRotation()
+			);
+		}
+
 		auto MyOwnerInstigator = MyOwner->GetInstigatorController();
 		auto DamageTypeClass = UDamageType::StaticClass();
 		UGameplayStatics::ApplyDamage(

@@ -104,6 +104,22 @@
 		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
 	},
 	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanksPlayerController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+	},
+	{
+		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanksPlayerController.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default/ToonTanks.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+	},
+	{
 		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Turret.cpp",
 		"arguments": [
 			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",

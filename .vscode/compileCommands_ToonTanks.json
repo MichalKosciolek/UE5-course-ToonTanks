@@ -1,138 +1,138 @@
 [
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/BasePawn.cpp",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\BasePawn.cpp",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/BasePawn.h",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\BasePawn.h",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/HealthComponent.cpp",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\HealthComponent.cpp",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/HealthComponent.h",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\HealthComponent.h",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Projectile.cpp",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\Projectile.cpp",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Projectile.h",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\Projectile.h",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Tank.cpp",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\Tank.cpp",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Tank.h",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\Tank.h",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanks.Build.cs",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanks.cpp",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\ToonTanks.cpp",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanks.h",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\ToonTanks.h",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanksGameMode.cpp",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.cpp",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanksGameMode.h",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.h",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanksPlayerController.cpp",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.cpp",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/ToonTanksPlayerController.h",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.h",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Turret.cpp",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\Turret.cpp",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/Source/ToonTanks/Turret.h",
+		"file": "C:\\Unreal Projects\\UE5-course-ToonTanks\\Source\\ToonTanks\\Turret.h",
 		"arguments": [
-			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-			"@/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.247.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.1.rsp"
 		],
-		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	}
 ]

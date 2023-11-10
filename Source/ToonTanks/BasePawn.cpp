@@ -38,7 +38,7 @@ void ABasePawn::HandleDestruction()
 	}
 	if (DeathCameraShakeClass)
 	{
-		GetWorld()->GetFirstPlayerController()->ClientPlayCameraShake(DeathCameraShakeClass);
+		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(DeathCameraShakeClass);
 	}
 }
 

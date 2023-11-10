@@ -65,7 +65,7 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 		}
 		if (HitCameraShakeClass)
 		{
-			GetWorld()->GetFirstPlayerController()->ClientPlayCameraShake(HitCameraShakeClass);
+			GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(HitCameraShakeClass);
 		}
 
 		AController* MyOwnerInstigator = MyOwner->GetInstigatorController();

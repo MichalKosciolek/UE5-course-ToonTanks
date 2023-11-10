@@ -1,36 +1,20 @@
 {
     "configurations": [
         {
-            "name": "ToonTanksEditor Editor Mac Development (ToonTanks)",
-            "compilerPath": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-            "compilerArgs": [
-                "-isysroot",
-                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk"
-            ],
-            "macFrameworkPath": [
-                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks"
-            ],
+            "name": "ToonTanksEditor Editor Win64 Development (ToonTanks)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "clang-x64",
-            "configurationProvider": "epic.ue",
-            "compileCommands": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_ToonTanks.json"
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_ToonTanks.json"
         },
         {
-            "name": "Mac",
-            "compilerPath": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
-            "compilerArgs": [
-                "-isysroot",
-                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk"
-            ],
-            "macFrameworkPath": [
-                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks"
-            ],
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "clang-x64",
-            "configurationProvider": "epic.ue",
-            "compileCommands": "/Users/michal/Documents/Unreal Projects/UE5-course-ToonTanks/.vscode/compileCommands_Default.json"
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Unreal Projects\\UE5-course-ToonTanks\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4
